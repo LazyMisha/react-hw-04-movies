@@ -1,26 +1,21 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import React, { lazy } from "react";
+import Header from "./components/Header";
+import { Switch, Route } from "react-router-dom";
+const HomePage = lazy(() => import("./components/HomePage"));
+const MoviesPage = lazy(() => import("./components/MoviesPage"));
+const MovieDetailsPage = lazy(() => import("./components/MovieDetailsPage"));
 
-function App() {
+const App = () => {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <>
+      <Header />
+      <Switch>
+        <Route path="/movies/:id" component={MovieDetailsPage} />
+        <Route path="/movies" component={MoviesPage} />
+        <Route exact path="/" component={HomePage} />
+      </Switch>
+    </>
   );
-}
+};
 
 export default App;

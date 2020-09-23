@@ -1,0 +1,36 @@
+.content {
+  display: flex;
+  justify-content: left;
+}
+
+.button {
+  padding-top: 10px;
+  padding-left: 20px;
+}
+
+.button button {
+  border: none;
+  background-color: white;
+  cursor: pointer;
+}
+
+.image {
+  margin: auto;
+  width: 320px;
+}
+
+img {
+  max-width: 320px;
+}
+
+.info {
+  padding: 20px;
+}
+
+.additional_information {
+  border-top: 1px solid gray;
+  border-bottom: 1px solid gray;
+  text-align: left;
+  padding-left: 20px;
+  padding-top: 0;
+}

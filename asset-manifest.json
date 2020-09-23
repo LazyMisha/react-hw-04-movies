@@ -1,0 +1,38 @@
+{
+  "files": {
+    "static/js/0.cdc48b03.chunk.js": "/react-hw-04-movies/static/js/0.cdc48b03.chunk.js",
+    "static/js/0.cdc48b03.chunk.js.map": "/react-hw-04-movies/static/js/0.cdc48b03.chunk.js.map",
+    "main.css": "/react-hw-04-movies/static/css/main.faa61506.chunk.css",
+    "main.js": "/react-hw-04-movies/static/js/main.638a0a9b.chunk.js",
+    "main.js.map": "/react-hw-04-movies/static/js/main.638a0a9b.chunk.js.map",
+    "runtime-main.js": "/react-hw-04-movies/static/js/runtime-main.4a1f9069.js",
+    "runtime-main.js.map": "/react-hw-04-movies/static/js/runtime-main.4a1f9069.js.map",
+    "static/js/3.10306afb.chunk.js": "/react-hw-04-movies/static/js/3.10306afb.chunk.js",
+    "static/js/3.10306afb.chunk.js.map": "/react-hw-04-movies/static/js/3.10306afb.chunk.js.map",
+    "static/js/4.61d93db8.chunk.js": "/react-hw-04-movies/static/js/4.61d93db8.chunk.js",
+    "static/js/4.61d93db8.chunk.js.map": "/react-hw-04-movies/static/js/4.61d93db8.chunk.js.map",
+    "static/css/5.cce6228a.chunk.css": "/react-hw-04-movies/static/css/5.cce6228a.chunk.css",
+    "static/js/5.6dc3dfeb.chunk.js": "/react-hw-04-movies/static/js/5.6dc3dfeb.chunk.js",
+    "static/js/5.6dc3dfeb.chunk.js.map": "/react-hw-04-movies/static/js/5.6dc3dfeb.chunk.js.map",
+    "static/css/6.6b0c9779.chunk.css": "/react-hw-04-movies/static/css/6.6b0c9779.chunk.css",
+    "static/js/6.628d8283.chunk.js": "/react-hw-04-movies/static/js/6.628d8283.chunk.js",
+    "static/js/6.628d8283.chunk.js.map": "/react-hw-04-movies/static/js/6.628d8283.chunk.js.map",
+    "static/js/7.cc1b1ae2.chunk.js": "/react-hw-04-movies/static/js/7.cc1b1ae2.chunk.js",
+    "static/js/7.cc1b1ae2.chunk.js.map": "/react-hw-04-movies/static/js/7.cc1b1ae2.chunk.js.map",
+    "static/js/8.cdaf663e.chunk.js": "/react-hw-04-movies/static/js/8.cdaf663e.chunk.js",
+    "static/js/8.cdaf663e.chunk.js.map": "/react-hw-04-movies/static/js/8.cdaf663e.chunk.js.map",
+    "index.html": "/react-hw-04-movies/index.html",
+    "precache-manifest.88c7c21b4409cfa883cef4a052f180dc.js": "/react-hw-04-movies/precache-manifest.88c7c21b4409cfa883cef4a052f180dc.js",
+    "service-worker.js": "/react-hw-04-movies/service-worker.js",
+    "static/css/5.cce6228a.chunk.css.map": "/react-hw-04-movies/static/css/5.cce6228a.chunk.css.map",
+    "static/css/6.6b0c9779.chunk.css.map": "/react-hw-04-movies/static/css/6.6b0c9779.chunk.css.map",
+    "static/css/main.faa61506.chunk.css.map": "/react-hw-04-movies/static/css/main.faa61506.chunk.css.map",
+    "static/js/3.10306afb.chunk.js.LICENSE.txt": "/react-hw-04-movies/static/js/3.10306afb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4a1f9069.js",
+    "static/js/3.10306afb.chunk.js",
+    "static/css/main.faa61506.chunk.css",
+    "static/js/main.638a0a9b.chunk.js"
+  ]
+}
